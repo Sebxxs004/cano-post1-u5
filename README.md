@@ -44,15 +44,15 @@ El flujo de la app está organizado por capas:
 
 Las imágenes de la app están en `app/captures`.
 
-### 1. Captura principal
+### 1. Captura principal de la lista
 
 ![Captura 1](app/captures/cap1.png)
 
-### 2. Captura de lista / contenido
+### 2. Captura de el error de red
 
 ![Captura 2](app/captures/cap2.png)
 
-### 3. Captura adicional del flujo
+### 3. Captura del loading
 
 ![Captura 3](app/captures/cap3.png)
 
